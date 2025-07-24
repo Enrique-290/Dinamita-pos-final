@@ -1,0 +1,1 @@
+console.log('App Dinamita POS cargada');
